@@ -1,0 +1,19 @@
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+Employee added: ID=219, Name=NISHANT SHARMA
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
+
+Employee List:
+Employee [id=219, name=NISHANT SHARMA, age=21, salary=40000.0]
+
+1. Add Employee
+2. Remove Employee
+3. Display Employees
+4. Exit
